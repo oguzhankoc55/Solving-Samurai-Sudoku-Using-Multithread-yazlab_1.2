@@ -1,4 +1,4 @@
-# yazlab_1.2
+# Yazlab1 2. Proje
 
 # MULTITHREAD KULLANARAK SAMURAI SUDOKU ÇÖZME
 
